@@ -1,4 +1,6 @@
-package com.youyou
+package com.youyou.server
+
+import com.youyou.MessageOutput
 
 private const val DATA_MAX_SIZE = 100
 
